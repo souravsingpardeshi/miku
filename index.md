@@ -1,4 +1,4 @@
-<h1><b>hello I'm Souravsing 😎</h1>
+<h1><b>hello I'm Souravsing 😎</b></h1>
 <h2 style="color:aqua">I will be posting solutions for leetcode problems.</h2>
 (in Python🐍)
 <br>
