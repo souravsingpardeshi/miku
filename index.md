@@ -1,5 +1,4 @@
-# hello I'm Souravsing
-:sunglasses:
+# hello I'm Souravsing :sunglasses:
 ## I will be posting solutions to leetcode problems.
 <br>
 <a href="1">1.Check if Binary String Has at Most One contagious Segment of Ones.</a><br><br>
