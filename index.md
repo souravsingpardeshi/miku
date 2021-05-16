@@ -1,4 +1,4 @@
-<div style="cursor:url(Itachi-MS.ani), auto">
+<div style="cursor:url(http://www.rw-designer.com/cursor-extern.php?id=149584)">
 <h1><b>hello I'm Souravsing 😎</b></h1>
 <h2 style="color:aqua">I will be posting solutions for leetcode problems.</h2>
 (in Python🐍)
