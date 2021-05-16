@@ -1,4 +1,4 @@
-<style type="text/css">
+<style>
 body {cursor: url(http://www.rw-designer.com/cursor-extern.php?id=149584);}
 </style>
 <h1><b>hello I'm Souravsing 😎</b></h1>
