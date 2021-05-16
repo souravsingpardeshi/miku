@@ -3,4 +3,4 @@
 (in Python🐍)
 <br>
 <a href="1" style="text-decoration:none">1Check if Binary String Has at Most One contagious Segment of Ones.</a><br>
-<a href="1" style="text-decoration:none">2Given a binary string s ​​​​​without leading zeros, return true​​​ if s contains at most one contiguous segment of ones. Otherwise, return false.</a>
+<a href="1" style="text-decoration:none">2Given a binary strings. Otherwise, return false.</a>
