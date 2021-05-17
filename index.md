@@ -1,5 +1,5 @@
 <h1><b>hello I'm Souravsing 😎</b></h1>
-<div style="text-align:center;"><script type="text/javascript" src="http://services.webestools.com/cpt_pages_views/73547-13-5.js"></script></div><a style="display:block;text-align:center;"><img src="http://www.webestools.com/images/ban03.gif"/></a>
+<div style="text-align:center;"><script type="text/javascript" src="http://services.webestools.com/cpt_pages_views/73547-13-5.js"></script></div><a style="display:block;text-align:center;"></a>
  
 
  
