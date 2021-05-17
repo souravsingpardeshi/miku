@@ -2,8 +2,9 @@
 <input id="searchbar" onkeyup="search_animal()" type="text"
         name="search" placeholder="Search ..." style="width:55vw;border-radius:6px;height:4.5vh;background-image:url(![32x32](https://user-images.githubusercontent.com/63045639/118502338-3c782580-b747-11eb-9115-3adf593da8f4.png)
 )">
-<h2 style="color:aqua">I will be posting solution's for leetcode problems and blogs related to different coding languages and tech in computer science..</h2>
-if you found content usefull please (in Python🐍)
+<h3 style="color:aqua">I will be posting solution's for leetcode problems and blogs related to different coding languages and tech in computer science.</h3>
+If you like content donate by pressing buy me a coffee button(no starting limit you can give whatever you like which will keep us motivated to make more quality content)
+(in Python🐍)
 <br>
 <a href="1" style="text-decoration:none" class="blog">1.Check if Binary String Has at Most One contagious Segment of Ones.</a><br><br>
 <a href="2" style="text-decoration:none" class="blog">2.Sum of All Subset XOR Totals.</a><br><br>
