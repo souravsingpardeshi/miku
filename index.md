@@ -1,6 +1,4 @@
-<style=".module {
-  cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/sad.png"), auto;	
-}">
+<style="cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/sad.png"), auto;">
 ><h1><b>hello I'm Souravsing 😎</b></h1>
 <input id="searchbar" onkeyup="search_animal()" type="text"
         name="search" placeholder="Search ...🔎">
