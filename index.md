@@ -1,5 +1,6 @@
-<h1><b>hello I'm Souravsing 😎<input id="searchbar" onkeyup="search_animal()" type="text"
-        name="search" placeholder="Search ...🔎"></b></h1>
+<h1><b>hello I'm Souravsing 😎</b></h1>
+<input id="searchbar" onkeyup="search_animal()" type="text"
+        name="search" placeholder="Search ...🔎">
 <h2 style="color:aqua">I will be posting solution's for leetcode problems.</h2>
 (in Python🐍)
 <br>
