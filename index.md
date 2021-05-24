@@ -8,5 +8,6 @@ If you like content donate by pressing support button(no starting limit you can 
 <a href="2" style="text-decoration:none" class="blog">2.Sum of All Subset XOR Totals.</a><br><br>
 <a href="3" style="text-decoration:none" class="blog">3. Determine Color of a Chessboard Square</a><br><br>
 <a href="4" style="text-decoration:none" class="blog">4. Check if One String Swap Can Make Strings Equal</a><br><br>
+<a href="5" style="text-decoration:none" class="blog">5. Matrix Diagonal Sum</a><br><br>
 <script src="./search.js"></script>
 
